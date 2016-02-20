@@ -42,7 +42,6 @@
   ],
   "bin": {
     "electron-builder": "cli.js",
-    "build": "./out/build-cli.js"
   },
   "author": "Stefan Judis",
   "license": "MIT",
